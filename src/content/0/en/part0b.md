@@ -41,8 +41,7 @@ When you reload the page (press the F5 key or the &#8634; symbol on your browser
 - And downloads the image <i>kuva.png</i>
 
 ![](../../images/0/2e.png)
-
-On a small screen you might have to lengthen the console window to see these. 
+*On a small screen you might have to resize the console window to see these.*
 
 Clicking the first event reveals more information on what's happening: 
 
